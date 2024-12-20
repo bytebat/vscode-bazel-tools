@@ -15,7 +15,7 @@ Note: Currently only googletest is supported as testing framework.
 
 - The `bazel` command needs to be known from command line, so make sure bazel is properly installed.
 - Your bazel project needs to depend on hedronvision's [bazel-compile-commands-extractor](https://github.com/hedronvision/bazel-compile-commands-extractor), as this tool is currently used to generate the compile commands.
-- If you want to use the testing feature, the [Test Explorer UI extension](https://marketplace.visualstudio.com/items?itemName=hbenl needs to be installed.
+- If you want to use the testing feature, the [Test Explorer UI extension](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) needs to be installed.
 
 ## Usage
 
